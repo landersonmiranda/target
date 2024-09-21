@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<faturamento>
+	<dia data="2023-03-01">1000</dia>
+	<dia data="2023-03-02">0</dia>
+	<dia data="2023-03-03">0</dia>
+	<dia data="2023-03-04">3000</dia>
+	<dia data="2023-03-05">3200</dia>
+	<dia data="2023-03-06">2345</dia>
+	<dia data="2023-03-07">2500</dia>
+	<dia data="2023-03-08">1600</dia>
+    <dia data="2023-03-09">0</dia>
+	<dia data="2023-03-10">0</dia>
+	<dia data="2023-03-11">2800</dia>
+	<dia data="2023-03-12">2900</dia>
+	<dia data="2023-03-13">3300</dia>
+	<dia data="2023-03-14">4110</dia>
+	<dia data="2023-03-15">1235</dia>
+	<dia data="2023-03-16">0</dia>
+	<dia data="2023-03-17">0</dia>
+	<dia data="2023-03-18">1980</dia>
+	<dia data="2023-03-19">2100</dia>
+	<dia data="2023-03-20">2500</dia>
+	<dia data="2023-03-21">2248</dia>
+	<dia data="2023-03-22">2222</dia>
+	<dia data="2023-03-23">0</dia>
+	<dia data="2023-03-24">0</dia>
+	<dia data="2023-03-26">2232</dia>
+	<dia data="2023-03-27">1245</dia>
+	<dia data="2023-03-28">987</dia>
+	<dia data="2023-03-29">1555</dia>
+	<dia data="2023-03-30">0</dia>
+	<dia data="2023-03-31">0</dia>
+</faturamento>
